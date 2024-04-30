@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sse_starlette
+transformers
+pydantic
+torch
+accelerate
+bitsandbytes
